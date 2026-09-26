@@ -41,3 +41,4 @@
 
 - 官网与知识库：[medxpert.cn](https://medxpert.cn)
 - 组织主页：[Medxpert-org](https://github.com/Medxpert-org)
+- 权属宣告真源：《LGD 对外表述规范》v1.2 §3.2（每件必带 · 整体复制 · 名称状态与分层许可以此为准）。
