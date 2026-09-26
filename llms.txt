@@ -1,0 +1,23 @@
+# 赵兴华 / Steven Zhao·China — GitHub 总览
+
+> 医疗器械合规 × AI 全程治理。权属人：赵兴华 / Steven Zhao·China（ORCID 0009-0001-0512-1237）。
+
+## 三线架构
+
+- [MedXpert 医械合规线](https://github.com/Medxpert-org/medxpert-skills)：医疗器械合规 AI 技能（NMPA/FDA/MDR/PMDA）
+- [SynomosAI·LGD AI 治理线](https://github.com/zhaoxinghua09-cell/lgd-theory)：LGD 全程治理论（Registry/Evidence/Gates）
+- [基础设施线](https://github.com/zhaoxinghua09-cell/agent-memory-service)：Agent 记忆服务、uibc-core 证据包与验证器
+
+## 关键仓
+
+- [medxpert-skills](https://github.com/Medxpert-org/medxpert-skills)：医械合规 AI 技能库（Apache-2.0 + NOTICE）
+- [agent-skills](https://github.com/zhaoxinghua09-cell/agent-skills)：87 个零依赖 AI 治理技能（MIT）
+- [lgd-theory](https://github.com/zhaoxinghua09-cell/lgd-theory)：LGD 理论文本（代码 Apache-2.0，理论文本保留所有权利）
+- [uibc-core](https://github.com/zhaoxinghua09-cell/uibc-core)：Agent 生命周期证据包与验证器（Apache-2.0 + NOTICE）
+- [agent-memory-service](https://github.com/zhaoxinghua09-cell/agent-memory-service)：自托管混合检索记忆 API（AGPL-3.0）
+
+## 权属
+
+- 品牌 MedXpert / SynomosAI / LGD 均未申请实体注册、未申请商标注册。
+- 理论文本/方法论/规范表述保留所有权利；可执行代码按各仓 LICENSE。
+- 官网：https://medxpert.cn
