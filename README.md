@@ -1,3 +1,11 @@
+<div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=zhaoxinghua09-cell&color=0a84ff&style=flat-square&label=Profile+views)](https://github.com/zhaoxinghua09-cell)
+[![Followers](https://img.shields.io/github/followers/zhaoxinghua09-cell?style=flat-square&label=Followers)](https://github.com/zhaoxinghua09-cell?tab=followers)
+[![Stars](https://img.shields.io/github/stars/zhaoxinghua09-cell?affiliations=OWNER&style=flat-square&label=Stars)](https://github.com/zhaoxinghua09-cell?tab=repositories)
+
+</div>
+
 # 赵兴华 / Steven Zhao·China
 
 > 医疗器械合规 × AI 全程治理。所有产出**权属明确、许可分层、可溯源**。
